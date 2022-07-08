@@ -619,6 +619,10 @@ body #app hr {
   border: none;
 }
 
+.underline {
+  text-decoration: line-through;
+}
+
 body #app small {
   font-size: 12px;
 }
